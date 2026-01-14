@@ -90,13 +90,6 @@ servicesButtons.forEach(button => {
     })
 })
 
-
-/*=============== TESTIMONIALS OF DUPLICATE CARDS ===============*/
-
-
-/*=============== COPY EMAIL IN CONTACT ===============*/
-
-
 /*=============== CURRENT YEAR OF THE FOOTER ===============*/ 
 const textYear = document.getElementById('footer-year'),
       currentYear = new Date().getFullYear()
@@ -122,10 +115,3 @@ const scrollActive = () => {
 }
 window.addEventListener('scroll', scrollActive)
 
-/*=============== CUSTOM CURSOR ===============*/
-
-
-/* Hide custom cursor on links */
-
-
-/*=============== SCROLL REVEAL ANIMATION ===============*/
